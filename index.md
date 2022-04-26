@@ -31,6 +31,7 @@ For full list and details of software and tools developed from our lab, please s
 
 - * * *
 
+
 ## PhD Researchers:
 - ### Kathryn Christie (2020 - _cont._)
   - Thesis title: Mental health diagnosis using cognitive analytics

@@ -7,16 +7,6 @@ Shukla Lab aims in developing:
 * Machine Learning (ML) / Artificial Intelligence (AI) based computational methods for in silico biomarker discovery and patients’ stratification in inflammatory diseases, cancer and multimorbidity via exploiting high-throughput omics, clinical and healthcare data. For more details regarding software and tools developed from our lab please see our [Github repository](https://github.com/ShuklaLab).
 * Positive Pedagogy based learning & teaching (L&T) methods for cross-disciplinary and inter-disciplinary subjects taught in a multi-disciplinary course environment in higher education (HE) sector. For more details regarding this theme of research, please see [here](https://www.advance-he.ac.uk/knowledge-hub/intervention-through-teaching-and-learning-practice-addressing-stress-and-anxiety) and [here](https://ciernetwork.wordpress.com/).
 
-
-
-
-
-
-
-
-
-
-
 ## Funding
 Shukla Lab is / have been supported by: Innovate UK, UKRI, Invest NI, NIHR, DfE, HSC R&D, Novo Nordisk, Wellcome Trust, BSA, BAICE and Advance HE.
 
@@ -85,3 +75,5 @@ Dissertation title: Machine learning based model development for the prediction 
 Project title: Statistical analysis of Olink datasets from Waldenström macroglobulinemia and light chain cardiac amyloidosis patients
 #### Joanna Jurek (2017)
 Project title: Artificial intelligence (AI) based predictor for the involvement of miRNAs in EMT
+
+###### _Last updated on: 26 April 2022_

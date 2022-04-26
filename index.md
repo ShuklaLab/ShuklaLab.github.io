@@ -36,10 +36,13 @@ Thesis title: Computational approaches in biomarker discovery for treatment resp
 Dissertation title: Desigining peptide-based vaccine candidates for SARS-CoV-2 variants using immunoinformatics approaches
 
 
-### Alumni
+## Alumni
 ### MSc Researchers
+#### Reece Corbett (2020 - 2021)
+Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus 4
+#### Elias Eliades (2020 - 2021)
+Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus 2
 #### Katherine McIntyre (2018 - 2019)
 Dissertation title: Computational prediction of B-cell epitopes for peptide-based vaccine design against novel Protoparvoviruses
-
 #### Nadine Forde (2017 - 2018)
 Dissertation title: In silico vaccine designing of novel protoparvoviruses using bioinformatic approaches

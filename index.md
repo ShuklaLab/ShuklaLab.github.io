@@ -2,15 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Shukla Lab aims in developing Machine Learning (ML) / Artificial Intelligence (AI) based computational methods for in silico biomarker discovery and patients’ stratification in inflammatory diseases, cancer and multimorbidity via exploiting high-throughput omics, clinical and healthcare data. For more details of our software and tools see our [Github repository] (https://github.com/ShuklaLab).
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# Lab Members
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 

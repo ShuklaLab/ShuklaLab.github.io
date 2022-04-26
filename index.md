@@ -29,8 +29,8 @@ For full list and details of software and tools developed from our lab, please s
 ## Principal Investigator: Dr Priyank Shukla
 - Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Associate Course Director of MSc Personalised Medicine program at Ulster University. For more detials about him, [please see here](https://pure.ulster.ac.uk/en/persons/priyank-shukla).
 
-- * * *
 
+- * * *
 
 ## PhD Researchers:
 - ### Kathryn Christie (2020 - _cont._)

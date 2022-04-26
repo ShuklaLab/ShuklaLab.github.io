@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Shukla Lab aims in developing Machine Learning (ML) / Artificial Intelligence (AI) based computational methods for in silico biomarker discovery and patients’ stratification in inflammatory diseases, cancer and multimorbidity via exploiting high-throughput omics, clinical and healthcare data. For more details of our software and tools see our [Github repository] (https://github.com/ShuklaLab).
+Shukla Lab aims in developing Machine Learning (ML) / Artificial Intelligence (AI) based computational methods for in silico biomarker discovery and patients’ stratification in inflammatory diseases, cancer and multimorbidity via exploiting high-throughput omics, clinical and healthcare data. For more details of our software and tools see our [Github repository](https://github.com/ShuklaLab).
 
 # Lab Members
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Principal Investigator
 
 > This is a blockquote following a header.
 >

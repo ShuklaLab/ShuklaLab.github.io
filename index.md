@@ -70,7 +70,7 @@ Dissertation title: Development of a single locus sequence typing scheme using a
 #### Gary Doherty (2016 - 2017)
 Dissertation title: Machine learning based model development for the prediction of miRNAs involved in epithelial to mesenchymal transition using next generation sequencing data
 
-### BSc placement researchers / interns
+### Placement Researchers / Interns
 #### Ruairidh Harrigan (2018)
 Project title: Statistical analysis of Olink datasets from Waldenström macroglobulinemia and light chain cardiac amyloidosis patients
 #### Joanna Jurek (2017)

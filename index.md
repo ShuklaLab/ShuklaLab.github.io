@@ -31,11 +31,11 @@ For full list and details of software and tools developed from our lab, please s
 
 ## PhD Researchers:
 - ### Kathryn Christie (2020 - _cont._)
- - Thesis title: Mental health diagnosis using cognitive analytics
+  - Thesis title: Mental health diagnosis using cognitive analytics
 - ### Bodhayan Prasad (2018 - _cont._)
- - Thesis title: Computational analyses of WGS and phenotypic data with treatment response from patients with multimorbid disease conditions
+  - Thesis title: Computational analyses of WGS and phenotypic data with treatment response from patients with multimorbid disease conditions
 - ### Angelina Thomas Villikudathil (2017 - _cont._)
- - Thesis title: Computational approaches in biomarker discovery for treatment response and comorbidity in type 2 diabetes
+  - Thesis title: Computational approaches in biomarker discovery for treatment response and comorbidity in type 2 diabetes
 
 ## MSc Researchers
 ### Gavin Markey (2021 - _cont._)

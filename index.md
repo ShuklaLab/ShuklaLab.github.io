@@ -8,7 +8,7 @@ Shukla Lab aims in developing:
 * Positive Pedagogy based learning & teaching (L&T) methods for cross-disciplinary and inter-disciplinary subjects taught in a multi-disciplinary course environment in higher education (HE) sector. For more details regarding this theme of research, please see [here](https://www.advance-he.ac.uk/knowledge-hub/intervention-through-teaching-and-learning-practice-addressing-stress-and-anxiety) and [here](https://ciernetwork.wordpress.com/).
 
 ## Funding
-Shukla Lab is / have been supported by: Innovate UK, UKRI, Invest NI, NIHR, DfE, HSC R&D, Novo Nordisk, Wellcome Trust, BSA, BAICE and Advance HE.
+Shukla Lab is / has been supported by: Innovate UK, UKRI, Invest NI, NIHR, DfE, HSC R&D, Novo Nordisk, Wellcome Trust, BSA, BAICE and Advance HE.
 
 ## Publications
 For full list of publications, [please see here](https://pure.ulster.ac.uk/en/persons/priyank-shukla/publications/).

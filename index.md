@@ -7,6 +7,9 @@ Shukla Lab aims in developing:
 * Machine Learning (ML) / Artificial Intelligence (AI) based computational methods for in silico biomarker discovery and patients’ stratification in inflammatory diseases, cancer and multimorbidity via exploiting high-throughput omics, clinical and healthcare data. For more details regarding software and tools developed from our lab please see our [Github repository](https://github.com/ShuklaLab).
 * Positive Pedagogy based learning & teaching (L&T) methods for cross-disciplinary and inter-disciplinary subjects taught in a multi-disciplinary course environment in higher education (HE) sector.
 
+## Publications
+For full list of publications, [please see here](https://pure.ulster.ac.uk/en/persons/priyank-shukla/publications/).
+
 ## People
 
 ### Principal Investigator
@@ -30,7 +33,13 @@ Thesis title: Computational approaches in biomarker discovery for treatment resp
 ### MSc Researchers
 
 #### Gavin Markey (2020 - _cont._)
-Thesis title: Desigining peptide-based vaccine candidates for SARS-CoV-2 varriants using immunoinformatics approaches
+Dissertation title: Desigining peptide-based vaccine candidates for SARS-CoV-2 variants using immunoinformatics approaches
 
 
 ### Alumni
+### MSc Researchers
+#### Katherine McIntyre (2018 - 2019)
+Dissertation title: Computational prediction of B-cell epitopes for peptide-based vaccine design against novel Protoparvoviruses
+
+#### Nadine Forde (2017 - 2018)
+Dissertation title: In silico vaccine designing of novel protoparvoviruses using bioinformatic approaches

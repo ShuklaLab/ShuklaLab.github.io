@@ -13,19 +13,19 @@ Priyank is a Lecturer in Stratified Medicine (Bioinformatics) at Ulster Universi
 
 ## PhD Researchers
 
-### Angelina Thomas Villikudathil (2017 - contd.)
+### Angelina Thomas Villikudathil (2017 - _cont._)
 Thesis title: Computational approaches in biomarker discovery for treatment response and comorbidity in type 2 diabetes
 
-### Bodhayan Prasad (2018 - contd.)
+### Bodhayan Prasad (2018 - _cont._)
 Thesis title: Computational analyses of WGS and phenotypic data with treatment response from patients with multimorbid disease conditions
 
-### Kathryn Christie (2020 - contd.)
+### Kathryn Christie (2020 - _cont._)
 Thesis title: Mental health diagnosis using cognitive analytics
 
 
 ## MSc Researchers
 
-### Gavin Markey (2020 - contd.)
+### Gavin Markey (2020 - _cont._)
 Thesis title: Desigining peptide-based vaccine candidates for SARS-CoV-2 varriants using immunoinformatics approaches
 
 

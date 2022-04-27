@@ -60,4 +60,9 @@ Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Associate Cour
 
 * * *
 
+## Lab Alumni
+For full list of lab alumni, [please see here](./lab_alumni.md)
+
+* * *
+
 ###### _Last updated on: 26 April 2022_

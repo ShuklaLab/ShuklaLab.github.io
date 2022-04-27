@@ -61,6 +61,8 @@ For full list and details of software and tools developed from our lab, please s
 
 # Lab Alumni
 
+For full list of publications, [please see here](./lab_alumni.html)
+
 ## MSc Researchers
 - ### Reece Corbett (2020 - 2021)
   - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-4

@@ -37,7 +37,7 @@ Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Associate Cour
   - Thesis title: Mental health diagnosis using cognitive analytics
 - ### Bodhayan Prasad (2018 - _cont._)
   - Thesis title: Computational analyses of WGS and phenotypic data with treatment response from patients with multimorbid disease conditions
-- ### Angelina Thomas Villikudathil (2017 - _cont._)
+- ### Angelina Villikudathil (2017 - _cont._)
   - Thesis title: Computational approaches in biomarker discovery for treatment response and comorbidity in type 2 diabetes
 
 * * *

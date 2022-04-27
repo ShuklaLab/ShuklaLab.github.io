@@ -29,7 +29,7 @@ For full list and details of software and tools developed from our lab, please s
 ## Principal Investigator: Dr Priyank Shukla
 - Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Associate Course Director of MSc Personalised Medicine program at Ulster University. For more detials about him, [please see here](https://pure.ulster.ac.uk/en/persons/priyank-shukla).
 
-- * * *
+* * *
 
 ## PhD Researchers:
 - ### Kathryn Christie (2020 - _cont._)
@@ -39,13 +39,13 @@ For full list and details of software and tools developed from our lab, please s
 - ### Angelina Thomas Villikudathil (2017 - _cont._)
   - Thesis title: Computational approaches in biomarker discovery for treatment response and comorbidity in type 2 diabetes
 
-- * * *
+* * *
 
 ## MSc Researchers
 - ### Gavin Markey (2021 - _cont._)
   - Dissertation title: Desigining peptide-based vaccine candidates for SARS-CoV-2 variants using immunoinformatics approaches
 
-- * * *
+* * *
 
 ## BSc Researchers
 - ### Stefani Aleksandrova (2021 - 2022)
@@ -71,7 +71,7 @@ For full list and details of software and tools developed from our lab, please s
 - ### Nadine Forde (2017 - 2018)
   - Dissertation title: In silico vaccine designing of novel protoparvoviruses using bioinformatic approaches
 
-- * * *
+* * *
 
 ## BSc Researchers
 - ### Hayley Corbett (2020 - 2021)
@@ -87,7 +87,7 @@ For full list and details of software and tools developed from our lab, please s
 - ### Gary Doherty (2016 - 2017)
   - Dissertation title: Machine learning based model development for the prediction of miRNAs involved in epithelial to mesenchymal transition using next generation sequencing data
 
-- * * *
+* * *
 
 ## Placement Researchers / Interns
 - ### Ruairidh Harrigan (2018)

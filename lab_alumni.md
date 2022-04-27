@@ -38,6 +38,6 @@ description:
 - ### Joanna Jurek (2017)
   - Project title: Artificial intelligence (AI) based predictor for the involvement of miRNAs in EMT
 
-* * *
+***
 
 ###### _Last updated on: 26 April 2022_

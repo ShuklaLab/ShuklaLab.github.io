@@ -62,7 +62,7 @@ Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Associate Cour
 
 # Lab Alumni
 
-For full list of publications, [please see here](./lab_alumni.html)
+For full list of publications, [please see here](./lab_alumni.md)
 
 ## MSc Researchers
 - ### Reece Corbett (2020 - 2021)

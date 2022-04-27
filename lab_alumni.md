@@ -1,3 +1,9 @@
+---
+layout: default
+title: Shukla Lab
+description:
+---
+
 # Lab Alumni
 
 ## MSc Researchers

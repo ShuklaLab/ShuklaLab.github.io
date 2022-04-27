@@ -15,6 +15,7 @@ description:
   - Dissertation title: Computational prediction of B-cell epitopes for peptide-based vaccine design against novel protoparvoviruses
 - ### Nadine Forde (2017 - 2018)
   - Dissertation title: In silico vaccine designing of novel protoparvoviruses using bioinformatic approaches
+
 * * *
 
 ## BSc Researchers
@@ -30,6 +31,7 @@ description:
   - Dissertation title: Development of a single locus sequence typing scheme using a Python script
 - ### Gary Doherty (2016 - 2017)
   - Dissertation title: Machine learning based model development for the prediction of miRNAs involved in epithelial to mesenchymal transition using next generation sequencing data
+
 * * *
 
 ## Placement Researchers / Interns

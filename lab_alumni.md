@@ -4,6 +4,8 @@ title: Shukla Lab
 description:
 ---
 
+###### [Go to homepage](https://shuklalab.github.io/)
+
 # Lab Alumni
 
 ## MSc Researchers

@@ -4,7 +4,7 @@ title: Shukla Lab
 description:
 ---
 
-###### [Go to homepage](https://shuklalab.github.io/)
+#### [Home](https://shuklalab.github.io/)
 
 # Lab Alumni
 

@@ -28,7 +28,7 @@ For full list and details of software and tools developed from our lab, please s
 # Current Lab Members
 
 ## Principal Investigator: Dr Priyank Shukla
-Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Associate Course Director of MSc Personalised Medicine program at Ulster University. For more detials about him, [please see here](https://pure.ulster.ac.uk/en/persons/priyank-shukla).
+Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Associate Course Director of MSc Personalised Medicine program at Ulster University. For more details about him, [please see here](https://pure.ulster.ac.uk/en/persons/priyank-shukla).
 
 * * *
 
@@ -44,7 +44,7 @@ Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Associate Cour
 
 ## MSc Researchers
 - ### Gavin Markey (2021 - _cont._)
-  - Dissertation title: Desigining peptide-based vaccine candidates for SARS-CoV-2 variants using immunoinformatics approaches
+  - Dissertation title: Designing peptide-based vaccine candidates for SARS-CoV-2 variants using immunoinformatics approaches
 
 * * *
 

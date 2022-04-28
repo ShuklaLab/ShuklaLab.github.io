@@ -20,7 +20,7 @@ description:
 
 ## BSc Researchers
 - ### Hayley Corbett (2020 - 2021)
-  - Dissertation title: Paptide based in-silico vaccine design against human bocavirus-1
+  - Dissertation title: Peptide based in-silico vaccine design against human bocavirus-1
 - ### Jordan Johnston (2020 - 2021)
   - Dissertation title: Computational prediction of epitopes for peptide-based vaccine design against human bocaviruses
 - ### Ryan Lusby (2019 - 2020)
@@ -42,4 +42,4 @@ description:
 
 ***
 
-###### _Last updated on: 26 April 2022_
+###### _Last updated on: 28 April 2022_

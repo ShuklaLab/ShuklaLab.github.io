@@ -50,9 +50,9 @@ Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Associate Cour
 
 ## BSc Researchers
 - ### Stefani Aleksandrova (2021 - 2022)
-  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocaviruses-3
+  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-3
 - ### Jennifer Ferguson (2021 - 2022)
-  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocaviruses-4
+  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-4
 - ### Rachel Graham (2021 - 2022)
   - Dissertation title: Identification of epitopes for designing peptide-based vaccine against human bocavirus-1 using in silico analysis
 - ### Ross Morrow (2021 - 2022)

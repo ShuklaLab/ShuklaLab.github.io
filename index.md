@@ -44,13 +44,13 @@ Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Associate Cour
 
 * * *
 
-## MSc Researchers
+## MSc Students
 - ### Gavin Markey (2021 - _cont._)
   - Dissertation title: Designing peptide-based vaccine candidates for SARS-CoV-2 variants using immunoinformatics approaches
 
 * * *
 
-## BSc Researchers
+## BSc Students
 - ### Stefani Aleksandrova (2021 - 2022)
   - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-3
 - ### Jennifer Ferguson (2021 - 2022)

@@ -8,7 +8,7 @@ description:
 
 # Lab Alumni
 
-## MSc Researchers
+## MSc Dissertation Students
 1. Nadine Forde (2017 - 2018)
 1. Katherine McIntyre (2018 - 2019)
 1. Elias Eliades (2020 - 2021)
@@ -16,7 +16,7 @@ description:
 
 * * *
 
-## BSc Researchers
+## BSc Dissertation Students
 1. Gary Doherty (2016 - 2017)
 2. James Montgomery (2017 - 2018)
 3. Ruairidh Harrigan (2018 - 2019)
@@ -26,7 +26,7 @@ description:
 
 * * *
 
-## Placement Researchers / Interns
+## Placement Students / Interns
 1. Joanna Jurek (2017)
 2. Ruairidh Harrigan (2018)
 

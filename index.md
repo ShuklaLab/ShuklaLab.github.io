@@ -11,7 +11,7 @@ Shukla Lab aims in developing:
 * * *
 
 # Funding
-Shukla Lab is / has been supported by: Innovate UK, UKRI, Invest NI, NIHR, DfE, HSC R&D, Novo Nordisk, Wellcome Trust, BSA, BAICE and Advance HE.
+Shukla Lab is / has been supported by: The Academy of Medical Sciences UK, UK Research & Innovation (UKRI), Innovate UK, National Institute for Health and Care Research (NIHR) UK, Department for the Economy (DfE) Government of Northern Ireland, Invest NI, Health and Social Care Research & Development (HSC R&D), Novo Nordisk, Wellcome Trust, British Science Association (BSA), British Association for International & Comparative Education (BAICE) and Advance HE.
 
 * * *
 

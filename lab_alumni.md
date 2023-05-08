@@ -12,7 +12,7 @@ description:
 ## PhD Researchers
 1. Angelina Villikudathil (2017 - 2022)
 
-* * *
+***
 
 ## MSc Dissertation Students
 1. Nadine Forde (2017 - 2018)
@@ -21,7 +21,7 @@ description:
 4. Reece Corbett (2020 - 2021)
 5. Gavin Markey (2021 - 2022)
 
-* * *
+***
 
 ## BSc Dissertation Students
 1. Gary Doherty (2016 - 2017)
@@ -35,7 +35,7 @@ description:
 9. Rachel Graham (2021 - 2022)
 10. Ross Morrow (2021 - 2022)
 
-* * *
+***
 
 ## Placement Students / Interns
 1. Joanna Jurek (2017)
@@ -43,4 +43,4 @@ description:
 
 ***
 
-###### _Last updated on: 6 May 2022_
+###### _Last updated on: 8 May 2023_

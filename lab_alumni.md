@@ -8,6 +8,7 @@ description:
 
 # Lab Alumni
 
+***
 
 ## PhD Researchers
 1. Angelina Villikudathil (2017 - 2022)

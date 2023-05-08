@@ -33,26 +33,24 @@ Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Associate Cour
 * * *
 
 ## PhD Researchers:
-- ### _New Candidate (starting Sep 2022)_
+- ### _Gavin Markey (2022 - _cont._)_
   - Thesis title: Cognitive analytics for early diagnosis of protective immunity and severity of SARS-CoV-2 infection
 - ### Kathryn Christie (2020 - _cont._)
   - Thesis title: Mental health diagnosis using cognitive analytics
 - ### Bodhayan Prasad (2018 - _cont._)
   - Thesis title: Computational analyses of WGS and phenotypic data with treatment response from patients with multimorbid disease conditions
-- ### Angelina Villikudathil (2017 - _cont._)
-  - Thesis title: Computational approaches in biomarker discovery for treatment response and comorbidity in type 2 diabetes
 
 * * *
 
 ## MSc Students
-- ### Gavin Markey (2021 - _cont._)
-  - Dissertation title: Designing peptide-based vaccine candidates for SARS-CoV-2 variants using immunoinformatics approaches
+- ### Leah McColgan (2022 - _cont._)
+  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocaviruses
 
 * * *
 
 ## BSc Students
-- ### Stefani Aleksandrova (2021 - 2022)
-  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-3
+- ### Sarah-Louise McDaid-McCloskey (2022 - 2023)
+  - Dissertation title: Immuno-informatics based multivalent peptide vaccine design against Sudan and Zaire ebolaviruse
 - ### Jennifer Ferguson (2021 - 2022)
   - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-4
 - ### Rachel Graham (2021 - 2022)
@@ -67,4 +65,4 @@ For full list of lab alumni, [please see here](./lab_alumni.md)
 
 * * *
 
-###### _Last updated on: 6 May 2022_
+###### _Last updated on: 8 May 2023_

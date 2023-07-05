@@ -12,9 +12,9 @@ description:
 
 ## PhD Researchers
 1. Angelina Villikudathil (2017 - 2022)
-    Thesis title: Computational approaches in biomarker discovery for treatment response and comorbidity in type-2 diabetes
-2. Bodhayan Prasad (2018 - 2023)
-    Thesis title: Computational analyses of WGS and phenotypic data with treatment response from patients with multimorbid disease conditions
+  - Thesis title: Computational approaches in biomarker discovery for treatment response and comorbidity in type-2 diabetes
+3. Bodhayan Prasad (2018 - 2023)
+  - Thesis title: Computational analyses of WGS and phenotypic data with treatment response from patients with multimorbid disease conditions
 
 ***
 

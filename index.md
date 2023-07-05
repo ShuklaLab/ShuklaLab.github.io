@@ -37,8 +37,6 @@ Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Course Directo
   - Thesis title: Cognitive analytics for early diagnosis of protective immunity and severity of SARS-CoV-2 infection
 - ### Kathryn Christie (2020 - _cont._)
   - Thesis title: Mental health diagnosis using cognitive analytics
-- ### Bodhayan Prasad (2018 - _cont._)
-  - Thesis title: Computational analyses of WGS and phenotypic data with treatment response from patients with multimorbid disease conditions
 
 * * *
 

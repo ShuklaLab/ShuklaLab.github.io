@@ -55,6 +55,10 @@ Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Course Directo
 ## BSc Students
 - ### James Bull (2023 - 2024)
   - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against arenaviridae virus family
+- ### Katie Stevens (2023 - 2024)
+  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-1
+- ### Jack Brown (2023 - 2024)
+  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-2
 
 * * *
 

@@ -32,6 +32,12 @@ Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Course Directo
 
 * * *
 
+## Postdoctoral Researchers:
+- ### Dr Joseph McLaughlin (Dec 2023 - _cont._)
+  - Project title: Development of a peptide-based vaccine against SARS-CoV-2
+
+* * *
+
 ## PhD Researchers:
 - ### Gavin Markey (2022 - _cont._)
   - Thesis title: Cognitive analytics for early diagnosis of protective immunity and severity of SARS-CoV-2 infection

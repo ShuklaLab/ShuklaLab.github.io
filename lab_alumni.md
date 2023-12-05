@@ -24,6 +24,7 @@ description:
 3. Elias Eliades (2020 - 2021)
 4. Reece Corbett (2020 - 2021)
 5. Gavin Markey (2021 - 2022)
+6. Leah McColgan (2022 - 2023)
 
 ***
 
@@ -38,6 +39,7 @@ description:
 8. Jennifer Ferguson (2021 - 2022)
 9. Rachel Graham (2021 - 2022)
 10. Ross Morrow (2021 - 2022)
+11. Sarah-Louise McDaid-McCloskey (2022 - 2023)
 
 ***
 

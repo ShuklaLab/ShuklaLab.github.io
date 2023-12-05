@@ -47,18 +47,14 @@ Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Course Directo
 * * *
 
 ## MSc Students
-- ### Leah McColgan (2022 - _cont._)
+- ### Sandeli Singh Chauhan (2023 - _cont._)
   - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocaviruses
 
 * * *
 
 ## BSc Students
-- ### Sarah-Louise McDaid-McCloskey (2022 - 2023)
-  - Dissertation title: Immuno-informatics based multivalent peptide vaccine design against Sudan and Zaire ebolaviruse
-- ### James Bull (2022 - 2023)
-  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-1
-- ### Tanisha Kelly (2022 - 2023)
-  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-2
+- ### James Bull (2023 - 2024)
+  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against arenaviridae virus family
 
 * * *
 
@@ -67,4 +63,4 @@ For full list of lab alumni, [please see here](./lab_alumni.md)
 
 * * *
 
-###### _Last updated on: 8 May 2023_
+###### _Last updated on: 5 Dec 2023_

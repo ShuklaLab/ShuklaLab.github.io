@@ -5,7 +5,7 @@ title: Shukla Lab
 
 # Research
 Shukla Lab aims in developing:
-* Machine Learning (ML) / Artificial Intelligence (AI) based computational methods for in silico biomarker discovery and patients’ stratification in inflammatory diseases, cancer and multimorbidity via exploiting high-throughput omics, clinical and healthcare data. For more details regarding software and tools developed from our lab please see our [Github repository](https://github.com/ShuklaLab).
+* Machine Learning (ML) / Artificial Intelligence (AI) based computational methods for in silico biomarker discovery and patients’ stratification in infectious diseases, inflammatory diseases, cancer, and multimorbidity, via exploiting high-throughput omics, clinical and healthcare data. For more details regarding software and tools developed from our lab please see our [Github repository](https://github.com/ShuklaLab).
 * Positive Pedagogy based learning & teaching (L&T) methods for cross-disciplinary and inter-disciplinary subjects taught in a multi-disciplinary course environment in higher education (HE) sector. For more details regarding this theme of research, please see [here](https://www.advance-he.ac.uk/knowledge-hub/intervention-through-teaching-and-learning-practice-addressing-stress-and-anxiety) and [here](https://ciernetwork.wordpress.com/).
 
 * * *

@@ -59,6 +59,8 @@ Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Course Directo
   - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-1
 - ### Jack Brown (2023 - 2024)
   - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-2
+- ### Megan Jess (2023 - 2024)
+  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-3
 
 * * *
 

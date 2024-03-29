@@ -33,6 +33,8 @@ Priyank is a Lecturer in Stratified Medicine (Bioinformatics) and Course Directo
 * * *
 
 ## Postdoctoral Researchers:
+- ### Dr Ruairidh Harrigan (Starting from 8 April 2024 - _cont._)
+  - Project title: VACCINE - Viral Antigenic Component for COVID-19 Immunization and Neutralization Efforts
 - ### Dr Joseph McLaughlin (Dec 2023 - _cont._)
   - Project title: Development of a peptide-based vaccine against SARS-CoV-2
 
@@ -69,4 +71,4 @@ For full list of lab alumni, [please see here](./lab_alumni.md)
 
 * * *
 
-###### _Last updated on: 5 Dec 2023_
+###### _Last updated on: 29 Mar 2024_

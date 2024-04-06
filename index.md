@@ -32,13 +32,13 @@ Priyank is a Lecturer (~Assistant Professor) in Stratified Medicine (Bioinformat
 
 * * *
 
-## Postdoctoral Researchers:
+## Postdoctoral Researchers
 - ### Dr Ruairidh Harrigan (Starting from 8 April 2024 - _cont._)
   - Project title: VACCINE - Viral Antigenic Component for COVID-19 Immunization and Neutralization Efforts
 
 * * *
 
-## PhD Researchers:
+## PhD Researchers
 - ### Gavin Markey (2022 - _cont._)
   - Thesis title: Cognitive analytics for early diagnosis of protective immunity and severity of SARS-CoV-2 infection
 - ### Kathryn Christie (2020 - _cont._)

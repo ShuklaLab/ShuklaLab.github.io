@@ -10,6 +10,12 @@ description:
 
 ***
 
+## Postdoctoral Researchers
+1. Dr Joseph McLaughlin (2023 - 2024)
+  - Project title: Development of a peptide-based vaccine against SARS-CoV-2
+
+***
+
 ## PhD Researchers
 1. Angelina Villikudathil (2017 - 2022)
   - Thesis title: Computational approaches in biomarker discovery for treatment response and comorbidity in type-2 diabetes
@@ -49,4 +55,4 @@ description:
 
 ***
 
-###### _Last updated on: 5 Dec 2023_
+###### _Last updated on: 6 Apr 2024_

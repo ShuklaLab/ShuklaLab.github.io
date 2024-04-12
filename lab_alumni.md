@@ -21,10 +21,10 @@ description:
   - Thesis title: Computational approaches in biomarker discovery for treatment response and comorbidity in type-2 diabetes
 2. Bodhayan Prasad (2018 - 2023)
   - Thesis title: Computational analyses of WGS and phenotypic data with treatment response from patients with multimorbid disease conditions
-3. Matthew Ennis (2020 - 2024) Co-supervisor
-  - Thesis title: Identifying multimorbidity patterns in type 2 diabetes and genes associated with comorbidity trajectories leading to chronic kidney disease
-4. Christina Vasilopoulou (2018 - 2022) Co-supervisor
+3. Christina Vasilopoulou (2018 - 2022) Co-supervisor
   - Thesis title: A software pipeline for the analysis of genomic data, and functional genomic approaches to explore the molecular mechanisms of amyotrophic lateral sclerosis
+4. Matthew Ennis (2020 - 2024) Co-supervisor
+  - Thesis title: Identifying multimorbidity patterns in type 2 diabetes and genes associated with comorbidity trajectories leading to chronic kidney disease
 
 ***
 

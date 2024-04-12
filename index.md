@@ -47,6 +47,7 @@ Priyank is a Lecturer (~Assistant Professor) in Stratified Medicine (Bioinformat
   - Thesis title: The diabetic lung: impact of diabetes and obesity on lung health (IDOL study)
 - ### Tony Robinson (2019 - _cont._) Co-supervisor
   - Thesis title: FPGA computational acceleration in genomics – bringing personalised medicine closer to clinical practice for healthy communities
+    
 * * *
 
 ## MSc Students

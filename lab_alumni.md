@@ -19,8 +19,12 @@ description:
 ## PhD Researchers
 1. Angelina Villikudathil (2017 - 2022)
   - Thesis title: Computational approaches in biomarker discovery for treatment response and comorbidity in type-2 diabetes
-3. Bodhayan Prasad (2018 - 2023)
+2. Bodhayan Prasad (2018 - 2023)
   - Thesis title: Computational analyses of WGS and phenotypic data with treatment response from patients with multimorbid disease conditions
+3. Matthew Ennis (2020 - 2024) Co-supervisor
+  - Thesis title: Identifying multimorbidity patterns in type 2 diabetes and genes associated with comorbidity trajectories leading to chronic kidney disease
+4. Christina Vasilopoulou (2018 - 2022) Co-supervisor
+  - Thesis title: A software pipeline for the analysis of genomic data, and functional genomic approaches to explore the molecular mechanisms of amyotrophic lateral sclerosis
 
 ***
 
@@ -55,4 +59,4 @@ description:
 
 ***
 
-###### _Last updated on: 6 Apr 2024_
+###### _Last updated on: 12 Apr 2024_

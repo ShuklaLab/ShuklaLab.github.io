@@ -43,9 +43,9 @@ Priyank is a Lecturer (~Assistant Professor) in Stratified Medicine (Bioinformat
   - Thesis title: Cognitive analytics for early diagnosis of protective immunity and severity of SARS-CoV-2 infection
 - ### Kathryn Christie (2020 - _cont._)
   - Thesis title: Mental health diagnosis using cognitive analytics
-- ### Roanne Lecky (2021 - _cont._) 2nd supervisor
+- ### Roanne Lecky (2021 - _cont._) Co-supervisor
   - Thesis title: The diabetic lung: impact of diabetes and obesity on lung health (IDOL study)
-- ### Tony Robinson (2019 - _cont._) 2nd supervisor
+- ### Tony Robinson (2019 - _cont._) Co-supervisor
   - Thesis title: FPGA computational acceleration in genomics – bringing personalised medicine closer to clinical practice for healthy communities
 * * *
 

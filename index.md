@@ -33,7 +33,7 @@ Priyank is a Lecturer (~Assistant Professor) in Stratified Medicine (Bioinformat
 * * *
 
 ## Postdoctoral Researchers
-- ### Dr Ruairidh Harrigan (Starting from 8 April 2024 - _cont._)
+- ### Dr Ruairidh Harrigan (2024 - _cont._)
   - Project title: VACCINE - Viral Antigenic Component for COVID-19 Immunization and Neutralization Efforts
 
 * * *

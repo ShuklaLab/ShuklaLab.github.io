@@ -11,7 +11,7 @@ Shukla Lab aims in developing:
 * * *
 
 # Innovation
-Shukla Lab focuses on healthcare innovation through medical informatics and artificial intelligence (MIAI). For more details regarding innovation work please see [here](https://miai.bio/).
+Shukla Lab focuses on healthcare innovation by combining medical informatics and artificial intelligence (MIAI). For more details regarding innovation work please see [here](https://miai.bio/).
 
 * * *
 

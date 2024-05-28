@@ -10,6 +10,11 @@ Shukla Lab aims in developing:
 
 * * *
 
+# Innovation
+Shukla Lab focuses on healthcare innovation through medical informatics and artificial intelligence (MIAI). For more details regarding innovation work please see [here](https://miai.bio/).
+
+* * *
+
 # Funding
 Shukla Lab is / has been supported by: The Academy of Medical Sciences UK, UK Research & Innovation (UKRI), Innovate UK, National Institute for Health and Care Research (NIHR) UK, Department for the Economy (DfE) Government of Northern Ireland, Invest NI, Health and Social Care Research & Development (HSC R&D), Novo Nordisk, Wellcome Trust, British Science Association (BSA), British Association for International & Comparative Education (BAICE) and Advance HE.
 

@@ -4,7 +4,7 @@ title: Shukla Lab
 ---
 
 # Open PhD positions!
-We are recruiting two PhD researchers. For more details about the project and application process, please see [here](https://www.ulster.ac.uk/doctoralcollege/find-a-phd?query=shukla).
+We are recruiting two PhD researchers. For more details about the projects and application process, please see [here](https://www.ulster.ac.uk/doctoralcollege/find-a-phd?query=shukla).
 
 * * *
 

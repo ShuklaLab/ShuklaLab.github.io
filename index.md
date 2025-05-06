@@ -3,11 +3,6 @@ layout: default
 title: Shukla Lab
 ---
 
-# Open PhD positions!
-We are recruiting two PhD researchers. For more details about the projects and application process, please see [here](https://www.ulster.ac.uk/doctoralcollege/find-a-phd?query=shukla).
-
-* * *
-
 # Research
 Shukla Lab aims in developing:
 * Machine Learning (ML) / Artificial Intelligence (AI) based computational methods for in silico biomarker discovery and patients’ stratification in infectious diseases, inflammatory diseases, cancer, and multimorbidity, via exploiting high-throughput omics, clinical and healthcare data. For more details regarding software and tools developed from our lab please see our [Github repository](https://github.com/ShuklaLab).

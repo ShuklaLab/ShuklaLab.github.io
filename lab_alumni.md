@@ -35,6 +35,7 @@ description:
 4. Reece Corbett (2020 - 2021)
 5. Gavin Markey (2021 - 2022)
 6. Leah McColgan (2022 - 2023)
+7. Sandeli Singh Chauhan (2023 - 2024)
 
 ***
 
@@ -50,6 +51,10 @@ description:
 9. Rachel Graham (2021 - 2022)
 10. Ross Morrow (2021 - 2022)
 11. Sarah-Louise McDaid-McCloskey (2022 - 2023)
+12. James Bull (2023 - 2024)
+13. Katie Stevens (2023 - 2024)
+14. Jack Brown (2023 - 2024)
+15. Megan Jess (2023 - 2024)
 
 ***
 
@@ -59,4 +64,4 @@ description:
 
 ***
 
-###### _Last updated on: 12 Apr 2024_
+###### _Last updated on: 6 May 2025_

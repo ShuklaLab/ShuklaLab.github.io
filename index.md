@@ -44,32 +44,20 @@ Priyank is a Senior Lecturer (~ Associate Professor) and Course Director of BSc 
 * * *
 
 ## PhD Researchers
-- ### Gavin Markey (2022 - _cont._)
+- ### Nomathamsanqa Tholo (2025 - _cont._) Lead supervisor
+  - Thesis title: Development of an immunoinformatics and artificial intelligence based computational platform for vaccine discovery and design
+- ### Gavin Markey (2022 - _cont._) Lead supervisor
   - Thesis title: Cognitive analytics for early diagnosis of protective immunity and severity of SARS-CoV-2 infection
-- ### Kathryn Christie (2020 - _cont._)
+- ### Kathryn Christie (2020 - _cont._) Lead supervisor
   - Thesis title: Mental health diagnosis using cognitive analytics
-- ### Roanne Lecky (2021 - _cont._) Co-supervisor
-  - Thesis title: The diabetic lung: impact of diabetes and obesity on lung health (IDOL study)
 - ### Tony Robinson (2019 - _cont._) Co-supervisor
   - Thesis title: FPGA computational acceleration in genomics – bringing personalised medicine closer to clinical practice for healthy communities
     
 * * *
 
-## MSc Students
-- ### Sandeli Singh Chauhan (2023 - _cont._)
-  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocaviruses
-
-* * *
-
 ## BSc Students
-- ### James Bull (2023 - 2024)
-  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against arenaviridae virus family
-- ### Katie Stevens (2023 - 2024)
-  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-1
-- ### Jack Brown (2023 - 2024)
-  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-2
-- ### Megan Jess (2023 - 2024)
-  - Dissertation title: Computational prediction of epitopes for peptide-based vaccine designing against human bocavirus-3
+- ### Anna Friel (2024 - 2025)
+  - Dissertation title: Computational design of epitopes of peptide-based vaccine candidates for protoparvoviruses
 
 * * *
 
@@ -78,4 +66,4 @@ For full list of lab alumni, [please see here](./lab_alumni.md)
 
 * * *
 
-###### _Last updated on: 2 Dec 2024_
+###### _Last updated on: 6 May 2025_

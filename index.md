@@ -57,13 +57,13 @@ Priyank is a Senior Lecturer (~ Associate Professor) and Course Director of BSc 
 
 ## MSc Students
 - ### Olivia Mulderrig (2024 - 2025)
-  - Dissertation title: TBC
+  - Dissertation title: Computational design of peptide-based vaccine candidates for Nipah virus
     
 * * *
 
 ## BSc Students
 - ### Anna Friel (2024 - 2025)
-  - Dissertation title: Computational design of epitopes of peptide-based vaccine candidates for protoparvoviruses
+  - Dissertation title: Computational design of peptide-based vaccine candidates for protoparvoviruses
 
 * * *
 

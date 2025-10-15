@@ -55,16 +55,17 @@ Priyank is a Senior Lecturer (~ Associate Professor) and Course Director of BSc 
     
 * * *
 
-## MSc Students
-- ### Olivia Mulderrig (2024 - 2025)
-  - Dissertation title: Computational design of peptide-based vaccine candidates for Nipah virus
+## MRes Students
+- ### Anna Friel (2025 - 2026)
+  - Dissertation title: Computational designing of peptide-based vaccine candidates for Lassa fever
     
 * * *
 
 ## BSc Students
-- ### Anna Friel (2024 - 2025)
-  - Dissertation title: Computational design of peptide-based vaccine candidates for protoparvoviruses
-
+- ### Aaron McGovern (2025 - 2026)
+  - Dissertation title: Computational designing of peptide-based vaccine candidates for bufavirus
+- ### Cassie Donaghy (2025 - 2026)
+  - Dissertation title: Computational designing of peptide-based vaccine candidates for tusavirus
 * * *
 
 ## Lab Alumni
@@ -72,4 +73,4 @@ For full list of lab alumni, [please see here](./lab_alumni.md)
 
 * * *
 
-###### _Last updated on: 2 July 2025_
+###### _Last updated on: 15 Oct 2025_

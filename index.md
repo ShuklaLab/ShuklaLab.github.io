@@ -66,6 +66,7 @@ Priyank is a Senior Lecturer (~ Associate Professor) and Course Director of BSc 
   - Dissertation title: Computational designing of peptide-based vaccine candidates for bufavirus
 - ### Cassie Donaghy (2025 - 2026)
   - Dissertation title: Computational designing of peptide-based vaccine candidates for tusavirus
+    
 * * *
 
 ## Lab Alumni

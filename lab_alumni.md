@@ -38,6 +38,7 @@ description:
 5. Gavin Markey (2021 - 2022)
 6. Leah McColgan (2022 - 2023)
 7. Sandeli Singh Chauhan (2023 - 2024)
+8. Olivia Mulderrig (2024 - 2025)
 
 ***
 
@@ -57,6 +58,7 @@ description:
 13. Katie Stevens (2023 - 2024)
 14. Jack Brown (2023 - 2024)
 15. Megan Jess (2023 - 2024)
+16. Anna Friel (2024 - 2025)
 
 ***
 
@@ -66,4 +68,4 @@ description:
 
 ***
 
-###### _Last updated on: 6 May 2025_
+###### _Last updated on: 15 Oct 2025_

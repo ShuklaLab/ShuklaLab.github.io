@@ -38,7 +38,7 @@ description:
 5. Gavin Markey (2021 - 2022)
 6. Leah McColgan (2022 - 2023)
 7. Sandeli Singh Chauhan (2023 - 2024)
-8. Olivia Mulderrig (2024 - 2025)
+8. Olivia Mulderrig (2024 - 2025) Almac Postgraduate Research Project Award
 
 ***
 

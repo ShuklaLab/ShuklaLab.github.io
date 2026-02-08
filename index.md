@@ -72,4 +72,4 @@ For full list of lab alumni, [please see here](./lab_alumni.md)
 
 * * *
 
-###### _Last updated on: 15 Oct 2025_
+###### _Last updated on: 8 Feb 2026_

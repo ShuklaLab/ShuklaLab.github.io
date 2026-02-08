@@ -37,12 +37,6 @@ Priyank is a Senior Lecturer (~ Associate Professor) and Course Director of BSc 
 
 * * *
 
-## Postdoctoral Researchers
-- ### Dr Ruairidh Harrigan (2024 - _cont._)
-  - Project title: VACCINE - Viral Antigenic Component for COVID-19 Immunization and Neutralization Efforts
-
-* * *
-
 ## PhD Researchers
 - ### Nomathamsanqa Tholo (2025 - _cont._) Lead supervisor
   - Thesis title: Development of an immunoinformatics and artificial intelligence based computational platform for vaccine discovery and design
@@ -66,6 +60,10 @@ Priyank is a Senior Lecturer (~ Associate Professor) and Course Director of BSc 
   - Dissertation title: Computational designing of peptide-based vaccine candidates for bufavirus
 - ### Cassie Donaghy (2025 - 2026)
   - Dissertation title: Computational designing of peptide-based vaccine candidates for tusavirus
+- ### Jenica Aparicio (2025 - 2026)
+  - Dissertation title: Computational designing of peptide-based vaccine candidates for cutavirus
+- ### Isabella Zinkova (2025 - 2026)
+  - Dissertation title: Computational designing of peptide-based vaccine candidates for human bocavirus
     
 * * *
 

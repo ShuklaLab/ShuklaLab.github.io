@@ -13,6 +13,8 @@ description:
 ## Postdoctoral Researchers
 1. Dr Joseph McLaughlin (2023 - 2024)
   - Project title: Development of a peptide-based vaccine against SARS-CoV-2
+2. Dr Ruairidh Harrigan (2024 - 2025)
+  - Project title: VACCINE - Viral Antigenic Component for COVID-19 Immunization and Neutralization Efforts
 
 ***
 
@@ -68,4 +70,4 @@ description:
 
 ***
 
-###### _Last updated on: 03 Dec 2025_
+###### _Last updated on: 08 Feb 2026_

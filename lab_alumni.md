@@ -29,7 +29,9 @@ description:
   - Thesis title: Identifying multimorbidity patterns in type 2 diabetes and genes associated with comorbidity trajectories leading to chronic kidney disease
 5. Roanne Lecky (2021 - 2025) Co-supervisor
   - Thesis title: The Diabetic Lung: Impact of Diabetes and Obesity on Lung Health (IDOL)
-
+6. Kathryn Christie (2020 - 2026) Lead supervisor
+- Thesis title: Mental health diagnosis using cognitive analytics
+  
 ***
 
 ## MSc Dissertation Students

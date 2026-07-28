@@ -42,8 +42,6 @@ Priyank is a Senior Lecturer (~ Associate Professor) and Course Director of BSc 
   - Thesis title: Development of an immunoinformatics and artificial intelligence based computational platform for vaccine discovery and design
 - ### Gavin Markey (2022 - _cont._) Lead supervisor
   - Thesis title: Cognitive analytics for early diagnosis of protective immunity and severity of SARS-CoV-2 infection
-- ### Kathryn Christie (2020 - _cont._) Lead supervisor
-  - Thesis title: Mental health diagnosis using cognitive analytics
 - ### Tony Robinson (2019 - _cont._) Co-supervisor
   - Thesis title: FPGA computational acceleration in genomics – bringing personalised medicine closer to clinical practice for healthy communities
     
@@ -72,4 +70,4 @@ For full list of lab alumni, [please see here](./lab_alumni.md)
 
 * * *
 
-###### _Last updated on: 8 Feb 2026_
+###### _Last updated on: 28 Jul 2026_
